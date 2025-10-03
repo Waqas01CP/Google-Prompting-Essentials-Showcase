@@ -8,7 +8,7 @@ This repository serves as a practical demonstration of the principles taught in 
 This project is structured as a series of case studies, each designed to highlight specific, advanced prompting techniques and showcase their real-world application.
 
 ### Methodology & Tools
-*   **AI Model:** All outputs were generated using **Google's Gemini model**.
+*   **AI Model:** All outputs were generated using **Google's Gemini model (2.5 Pro)**.
 *   **Process:** The core methodology involves iterative refinement, prompt chaining, and strategic querying to guide the AI toward a high-quality, targeted result. It's important to note that results from generative models can vary, but the principles demonstrated here are consistent.
 
 ---
@@ -19,7 +19,7 @@ This project is structured as a series of case studies, each designed to highlig
     *A deep dive into how iterative refinement and asking strategic "meta" questions transforms a generic request into a professional, brand-aligned result.*
 
 2.  **[Part 2: Tree of Thoughts (ToT) Demonstration](./2_Tree_of_Thoughts_Demonstration.md)**
-    *(Coming Soon) An advanced example of guiding an AI through complex problem-solving by prompting it to explore multiple reasoning paths, evaluate them, and synthesize a final, optimized solution.*
+    *An advanced example of guiding an AI through complex problem-solving by prompting it to explore multiple reasoning paths, evaluate them, and synthesize a final, optimized solution.*
 
 3.  **[Part 3: The Core Techniques Toolkit](./3_Core_Techniques_Toolkit.md)**
-    *(Coming Soon) A collection of concise demonstrations covering a range of essential prompting skills, including tone control, prompt chaining, red teaming for bias, and more.*
+    *A collection of concise demonstrations covering a range of essential prompting skills, including tone control, prompt chaining, red teaming for bias, and more.*
