@@ -71,10 +71,10 @@ This is the workflow we adopted for this project, chosen specifically for its ef
 
 The process began by prompting the AI to generate several distinct, high-level strategies to serve as the main branches of our tree.
 
-> **User Prompt:**
+> **Prompt Design:**
 > You are an expert travel planner specializing in creating authentic experiences in Kyoto. Your task is to generate three distinct, high-level strategic plans for a 3-day weekend itinerary based on the provided constraints. Please present three different thematic plans. For each plan, provide a memorable name and a 2-3 sentence summary of its core strategy. Do not create a detailed daily schedule yet. Label them Plan A, Plan B, and Plan C.
 
-**AI Response:**
+**Resulting Output:**
 
 Here are three distinct, high-level strategic plans for your 3-day Kyoto weekend.
 
@@ -95,10 +95,10 @@ We selected Plan A as the first branch to develop fully, assessing its viability
 
 #### **Step 2.1: Structuring the Plan**
 
-> **User Prompt:**
+> **Prompt Design:**
 > Act as an expert Kyoto guide who is extremely familiar with its back-streets and energetic. Provide me with the 3-day neighborhood visit breakdown for Plan A. Each day must cover exactly one district and be optimized for a full-day experience with no backtracking. The plan should have a logical geographical flow and include a 1-hour reserve buffer time for unexpected discoveries. Please provide justification and a concise explanation for the chosen structure.
 
-**AI Response:**
+**Resulting Output:**
 
 Here is the 3-day neighborhood breakdown for the "Neighborhood Immersion" plan. Our flow is **East → Center → West**, a deliberate geographical and thematic progression designed to give you a holistic feel for the city without ever feeling rushed or out of place.
 
@@ -113,10 +113,10 @@ Here is the 3-day neighborhood breakdown for the "Neighborhood Immersion" plan. 
 
 #### **Step 2.2: Detailing Day 1 (Higashiyama)**
 
-> **User Prompt:**
+> **Prompt Design:**
 > Yes, I am ready to proceed. Please provide the detailed, step-by-step itinerary for Day 1 in Higashiyama.
 
-**AI Response:**
+**Resulting Output:**
 
 **Detailed Itinerary: Day 1 - The Heart of Old Kyoto (Higashiyama)**
 
@@ -144,10 +144,10 @@ Here is the 3-day neighborhood breakdown for the "Neighborhood Immersion" plan. 
 
 #### **Step 2.3: Detailing Day 2 (Downtown)**
 
-> **User Prompt:**
+> **Prompt Design:**
 > No issues here. I'd like to add an additional condition: if we reach the last destination and the 1-hour reserve time is unused, please suggest a bonus activity. Now, let's proceed to Day 2.
 
-**AI Response:**
+**Resulting Output:**
 
 **Detailed Itinerary: Day 2 - The City's Stomach & Soul (Downtown)**
 
@@ -173,10 +173,10 @@ Here is the 3-day neighborhood breakdown for the "Neighborhood Immersion" plan. 
 
 #### **Step 2.4: Detailing Day 3 (Arashiyama)**
 
-> **User Prompt:**
+> **Prompt Design:**
 > No issues here, proceed to Day 3.
 
-**AI Response:**
+**Resulting Output:**
 
 **Detailed Itinerary: Day 3 - The Realm of Nature & Serenity (Arashiyama)**
 
@@ -208,15 +208,15 @@ Here is the 3-day neighborhood breakdown for the "Neighborhood Immersion" plan. 
 
 With Plan A fully developed, we then executed our "simulated branch" to explore a completely different strategy, demonstrating the comparative power of ToT.
 
-> **User Prompt:**
+> **Prompt Design:**
 > Let's go back and explore Plan B.
 
 #### **Step 3.1: Structuring the Plan**
 
-> **User Prompt:**
+> **Prompt Design:**
 > Please provide the day-by-day structural breakdown for Plan B: The "Zen & Serenity Trail." The same rules for efficiency and logical flow apply.
 
-**AI Response:**
+**Resulting Output:**
 
 Here is the 3-day structural breakdown for the "Zen & Serenity Trail." This plan is thematic, structured around a progression of experiencing Zen: first, understanding its **philosophy**; second, engaging in its **practice**; and third, feeling its presence in **nature**.
 
@@ -231,10 +231,10 @@ Here is the 3-day structural breakdown for the "Zen & Serenity Trail." This plan
 
 #### **Step 3.2: Detailing Day 1 (The Philosophy of Zen)**
 
-> **User Prompt:**
+> **Prompt Design:**
 > Proceed with the detailed, step-by-step itinerary for Day 1 of Plan B.
 
-**AI Response:**
+**Resulting Output:**
 
 **Detailed Itinerary: Day 1 - The Philosophy of Zen (The Philosopher's Path)**
 
@@ -262,10 +262,10 @@ Here is the 3-day structural breakdown for the "Zen & Serenity Trail." This plan
 
 #### **Step 3.3: Detailing Day 2 (The Practice of Serenity)**
 
-> **User Prompt:**
+> **Prompt Design:**
 > Proceed to Day 2.
 
-**AI Response:**
+**Resulting Output:**
 
 **Detailed Itinerary: Day 2 - The Practice of Serenity (North-Central Kyoto)**
 
@@ -289,10 +289,10 @@ Here is the 3-day structural breakdown for the "Zen & Serenity Trail." This plan
 
 #### **Step 3.4: Detailing Day 3 (Zen in Nature)**
 
-> **User Prompt:**
+> **Prompt Design:**
 > Proceed to Day 3.
 
-**AI Response:**
+**Resulting Output:**
 
 **Detailed Itinerary: Day 3 - Zen in Nature (Kurama & Kifune)**
 
