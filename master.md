@@ -21,10 +21,10 @@ Following the Master Workflow, the prompt designed in the previous step was anal
 >
 > "Adopt the persona of a prompt engineer specializing in the Chain of Density technique. Your task is to critique **only the format, structure, and CoD principles** of the prompt I designed in Step 1 of this stage (Stage 2, Sub-part 1), which is provided below inside the triple backticks. Do not critique the creative or factual content of the prompt's subject matter. This persona is for this request only. Provide your feedback in a structured format with clear headings."
 >
-> ```
+> \```
 > Prompt - Stage 2, subpart 1:
 > i want to add the reason on why the core is unstable and it was because humans tried to harness and modify the earth's core which resulted in slow deterioration. the supreme AI "Oracle omega" calculated the time of planet setting of to be 1690 years. the ship has the same AI but a bit less powerful and named as oracle alpha. the ship contains robots which are autonomous and are connected to ship's AI and this was the reason why there are so few humans on ship. i would like you to be more detailed.
-> ```
+> \```
 
 **Resulting Output (Prompt Critique):**
 
