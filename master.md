@@ -52,9 +52,9 @@ Next, the `v2` output was analyzed by a temporary "Expert Sci-Fi Writer" persona
 >
 > "Adopt the persona of an expert sci-fi writer. Your task is to critique the creative **CONTENT** generated in Step 2 of this stage, which is provided below inside the triple backticks. Analyze it for narrative potential and clarity. Provide specific suggestions for improvement in a structured format. This persona is for this request only."
 >
-> ```
+> \```
 > The starship Exodus A-13 hangs like a sliver of polished steel against the unfamiliar swirl of the Aetherium nebula. It is one of several pioneer vessels sent into the depths of space, a final, desperate gamble by a waiting Earth. Humanity's technological ascent had been so swift, so brilliant, they had reached for the heart of their own planet, attempting to harness and modify the core itself—an act of staggering hubris. The result was not power, but a slow, inexorable decay, a planetary sickness with a terminal diagnosis. It was the supreme AI, Oracle Omega, that delivered the prognosis from its terrestrial throne: 1690 years until total core collapse. Onboard the Exodus, its lesser, more mobile counterpart, Oracle Alpha, now guides the crew of thirteen specialists. These thirteen are the mission's mind and soul; its body is an army of silent, autonomous robots connected to Alpha's neural net, their metallic forms gliding through the corridors, maintaining the systems and running the diagnostics that once would have required a crew of thousands. Before them, Aetherium fills the main viewscreen, a blue-green jewel that, according to a probe's whisper across the void, fulfills all the core conditions for survival. The mission, EXODUS 13, is not just to explore, but to confirm a new cradle for a species brilliant enough to cross the stars, yet foolish enough to have broken their own.
-> ```
+> \```
 
 **Resulting Output (Output Critique):**
 
