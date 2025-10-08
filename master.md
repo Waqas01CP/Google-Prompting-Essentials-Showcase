@@ -1,5 +1,3 @@
----
-
 ### **Stage 2: Adding Foundational Lore & World-Building (Output v2)**
 The second stage of the process was designed to inject the first layer of deep lore into the narrative. The prompt contained four distinct sub-prompts, focusing on the reason for Earth's decay, establishing an AI hierarchy, and elaborating on the crew's composition.
 
