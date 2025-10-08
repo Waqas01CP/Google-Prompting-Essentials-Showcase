@@ -11,8 +11,6 @@ The starship *Exodus A-13* hangs like a sliver of polished steel against the unf
 
 ---
 
-### **Stage 2, Continued: The Critique Cycle**
-
 #### **Step 3: The Prompt Critique Cycle**
 Following the Master Workflow, the prompt designed in the previous step was analyzed by a temporary "Prompt Engineer" persona to audit its structural integrity and adherence to CoD principles.
 
