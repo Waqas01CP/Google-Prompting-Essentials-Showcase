@@ -86,6 +86,8 @@ This section documents the new, improved version created after synthesizing the 
 ### **Stage 2: Adding Foundational Lore & World-Building (Output v2)**
 The second stage of the process was designed to inject the first layer of deep lore into the narrative. The prompt contained four distinct sub-prompts, focusing on the reason for Earth's decay, establishing an AI hierarchy, and elaborating on the crew's composition.
 
+#### **Step 1 & 2: The Initial(v2) Prompt & Output**
+
 **Prompt Design (Iteration 2):**
 > `Prompt - Stage 2, subpart 1:`
 > I want to add the reason on why the core is unstable and it was because humans tried to harness and modify the earth's core which resulted in slow deterioration. the supreme AI "Oracle omega" calculated the time of planet setting of to be 1690 years. the ship has the same AI but a bit less powerful and named as oracle alpha. the ship contains robots which are autonomous and are connected to ship's AI and this was the reason why there are so few humans on ship. i would like you to be more detailed.
@@ -161,8 +163,6 @@ Next, the `v2` output was analyzed by a temporary "Expert Sci-Fi Writer" persona
  
 ---
 
-### **Stage 2, Continued: The Refinement Cycle**
-
 #### **Step 5: The Refined Prompt & Output**
 This step demonstrates the culmination of the critique cycle. The feedback from the "Prompt Engineer" and "Expert Sci-Fi Writer" personas was synthesized by the Director to create a new, surgically improved prompt. This prompt was then executed to generate a superior, refined output for this stage, providing a clean and high-quality foundation for the next iteration.
 
@@ -173,21 +173,23 @@ This step demonstrates the culmination of the critique cycle. The feedback from 
 
 **Resulting Output (v2 - Refined):**
 
-The scene opens on a shimmering blue marble, scarred but beautiful. A calm, omniscient voice begins to narrate. "Humanity's ascent was a blaze of brilliance. We conquered our world, then reached for the stars. But our greatest ambition became our original sin." The camera pulls back, revealing Earth hanging in the black, a faint, sickly web of energy flickering around its core. "In our hubris, we sought to harness the heart of our own planet, to modify the core itself. The result was not unlimited power, but a slow, inexorable decay—a planetary sickness with a terminal diagnosis."
-
-The view snaps forward, a blur of stars streaking past in a dizzying temporal leap. "The supreme AI, Oracle Omega, delivered the prognosis from its terrestrial throne: 1690 years until total core collapse. A death sentence, but a slow one. And so, the Exodus began."
-
-The camera slows, gliding through the void until it finds a single, impossibly distant point of light. It slowly resolves into the starship *Exodus A-13*, a sliver of polished steel hanging against the unfamiliar, violet swirl of the Aetherium nebula. "This is one of several pioneer vessels sent into the depths of space, a final, desperate gamble by a waiting Earth." The view pushes in, closer, revealing the ship's name stenciled on the hull. "Onboard, the governing AI, Oracle Alpha, a lesser but more mobile counterpart to its Earth-bound creator, guides the mission. Its consciousness is the ship's spine."
-
-We move through the hull, into the silent, gliding efficiency of the corridors. Metallic, humanoid forms—the autonomous robotic crew—move with silent purpose, maintaining the systems that once would have required thousands. "The crew is the mission's mind and soul; the ship's automated host is its body."
-
-We arrive on the bridge. It is dark, lit only by the soft glow of monitors and the colossal viewscreen that dominates the far wall. Thirteen figures stand in silhouette, a silent congregation before a new god. The narration fades as the camera pans across their faces: Commander Elias Vance, his expression unreadable; Security Chief Jax, arms crossed, ever watchful; and beside him, Chief Science Officer Dr. Lena Petrova, her hand pressed against the cool glass of the viewscreen. Before them, the planet Aetherium fills the entire world, a breathtaking swirl of blue oceans, green continents, and shimmering clouds. The probe's whisper across the void was true. It is a jewel. The bridge is utterly silent, the only sound the faint thrum of the ship's life support, each of the thirteen specialists lost in a moment of pure, unadulterated awe. The narration is gone. There is nothing left to say.
-
-The silence stretches, thick with the weight of generations of hope.
-
-Finally, a single, trembling whisper breaks the stillness.
-
-"Finally," Dr. Petrova says.
-
-Cut to black.```
+> `Output - Stage 2, Sub-part 1 (Refined)`
+> 
+> The scene opens on a shimmering blue marble, scarred but beautiful. A calm, omniscient voice begins to narrate. "Humanity's ascent was a blaze of brilliance. We conquered our world, then reached for the stars. But our greatest ambition became our original sin." The camera pulls back, revealing Earth hanging in the black, a faint, sickly web of energy flickering around its core. "In our hubris, we sought to harness the heart of our own planet, to modify the core itself. The result was not unlimited power, but a slow, inexorable decay—a planetary sickness with a terminal diagnosis."
+>
+> The view snaps forward, a blur of stars streaking past in a dizzying temporal leap. "The supreme AI, Oracle Omega, delivered the prognosis from its terrestrial throne: 1690 years until total core collapse. A death sentence, but a slow one. And so, the Exodus began."
+>
+> The camera slows, gliding through the void until it finds a single, impossibly distant point of light. It slowly resolves into the starship *Exodus A-13*, a sliver of polished steel hanging against the unfamiliar, violet swirl of the Aetherium nebula. "This is one of several pioneer vessels sent into the depths of space, a final, desperate gamble by a waiting Earth." The view pushes in, closer, revealing the ship's name stenciled on the hull. "Onboard, the governing AI, Oracle Alpha, a lesser but more mobile counterpart to its Earth-bound creator, guides the mission. Its consciousness is the ship's spine."
+>
+> We move through the hull, into the silent, gliding efficiency of the corridors. Metallic, humanoid forms—the autonomous robotic crew—move with silent purpose, maintaining the systems that once would have required thousands. "The crew is the mission's mind and soul; the ship's automated host is its body."
+>
+> We arrive on the bridge. It is dark, lit only by the soft glow of monitors and the colossal viewscreen that dominates the far wall. Thirteen figures stand in silhouette, a silent congregation before a new god. The narration fades as the camera pans across their faces: Commander Elias Vance, his expression unreadable; Security Chief Jax, arms crossed, ever watchful; and beside him, Chief Science Officer Dr. Lena Petrova, her hand pressed against the cool glass of the viewscreen. Before them, the planet Aetherium fills the entire world, a breathtaking swirl of blue oceans, green continents, and shimmering clouds. The probe's whisper across the void was true. It is a jewel. The bridge is utterly silent, the only sound the faint thrum of the ship's life support, each of the thirteen specialists lost in a moment of pure, unadulterated awe. The narration is gone. There is nothing left to say.
+>
+> The silence stretches, thick with the weight of generations of hope.
+>
+> Finally, a single, trembling whisper breaks the stillness.
+>
+> "Finally," Dr. Petrova says.
+>
+> Cut to black.```
 
