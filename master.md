@@ -47,7 +47,7 @@ The primary challenge of the **Master Workflow Method** is its verbosity and the
 
 ## The Full, Unabridged Iterative Process
 
-The following is the complete, unabridged log of the Chain of Density process, executed using the Master Workflow defined above. It provides a transparent view of each prompt, output, critique, and refinement, demonstrating the methodology in action and serving as a practical guide for repeating this process.
+This demonstration of the Chain of Density technique was executed using the systematic, multi-step framework detailed in the **[0.0 - The Master Workflow](./0.0_The_Master_Workflow.md)** document. The development of this workflow, and the insights gained from it, are a core part of this project. The following is the unabridged log of that workflow in action.
 
 ### **Stage 1: Establishing the Foundational Sentence**
 The process begins with a simple, prose-based prompt to establish the foundational, "zero-density" sentence for the narrative. This stage documents the full critique and refinement cycle used to perfect this crucial starting point.
