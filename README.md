@@ -77,7 +77,7 @@ This section provides a complete, ordered list of all the case studies and metho
 *   **[4.0 - Tone and Style Control](./4.0_Tone_and_Style_Control.md)**
     *A case study showcasing the ability to generate the same core information in three distinct voices for different audiences.*
 
-*   **[5.0 - Initial CoD Demonstration](./5.0_Initial_CoD_Demonstration.md)**
+*   **[5.0 - Initial CoD Demonstration](./5.0_Chain_of_Density.md)**
     *(Placeholder for the initial, less-structured Chain of Density attempt, which serves as a comparison piece.)*
 
 *   **[5.1 - Demonstration of the Master Workflow (CoD)](./5.1_Demonstration_of_the_Master_Workflow_(CoD).md)**
