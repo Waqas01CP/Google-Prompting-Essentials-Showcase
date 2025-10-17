@@ -99,7 +99,7 @@ This section provides a complete, ordered list of all the case studies and metho
 *   **[8.0 - Token Sampling: A Demonstration](./08.0_Token_Sampling_Demonstration.md)**
     *An A/B comparison demonstrating how simulating token sampling parameters (like Temperature) can be used to control the AI's output on a spectrum from predictable and conservative to creative and unexpected.*
 
-*   **[09.0 - AI Agents: A Demonstration](./09.0_AI_Agents_Demonstration.md)**
+*   **[9.0 - AI Agents: A Demonstration](./09.0_AI_Agents_Demonstration.md)**
     *A case study on creating a goal-driven, interactive AI agent, highlighting the "Principle of Procedural Instruction" for reliable execution.*
 
 *   **[10.0 - Data Analysis Strategies: A Demonstration](./10.0_Data_Analysis_Strategies.md)**
